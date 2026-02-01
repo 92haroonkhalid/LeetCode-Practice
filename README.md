@@ -17,11 +17,11 @@ understanding of data structures & algorithms, and prepare for technical intervi
 
 ## 📂 Folder Structure
 
-LeetCode-Practice/
-│
-├── easy/ → Beginner-friendly problems
-├── medium/ → Intermediate-level problems
-├── hard/ → Advanced & challenging problems
+| LeetCode-Practice/                           |
+│ |                                            |
+| ├── easy/ → Beginner-friendly problems       |
+| ├── medium/ → Intermediate-level problems    |
+| ├── hard/ → Advanced & challenging problems  |
 
 
 ---
@@ -40,7 +40,7 @@ Each problem solution includes:
 
 | Difficulty | Problems Solved |
 |-----------|----------------|
-| Easy      | 0 |
+| Easy      | 1 |
 | Medium    | 0 |
 | Hard      | 0 |
 
